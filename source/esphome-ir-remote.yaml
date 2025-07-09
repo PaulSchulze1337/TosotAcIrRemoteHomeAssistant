@@ -5,6 +5,7 @@ esphome:
   name_add_mac_suffix: false
 
 
+# Define your ESP board here
 esp8266:
   board: d1_mini
 
@@ -29,6 +30,8 @@ remote_transmitter:
         
   carrier_duty_percent: 50%
 
+# Read the documentation to set up to your AC model
+# see: https://esphome.io/components/climate/climate_ir.html
 climate:
   - platform: gree
     name: "Living Room AC"
