@@ -14,7 +14,8 @@ The IR remote control is based on an ESP8266 board (Wemos LoLin D1 R2 & Mini). I
 ## Pictures
 
 ### Interface in Home Assistant
-![home_assistant_interface.png](img/home_assistant_interface.png)
+![home_assistant_interface.png](img/home_assistant_interface.png) 
+
 This interface comes from the IR Remote Climate component of ESPHome and is used to control my Tosot Air Conditioner.
 
 ### Case for the IR Remote Control
