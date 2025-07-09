@@ -19,15 +19,18 @@ This interface comes from the IR Remote Climate component of ESPHome and is used
 
 ### Case for the IR Remote Control
 ![ir_remote_control_case.webp](img/ir_remote_control_case.webp)
+
 The Case was designed by me. Find it here on thingyverse.
 Note: The A/C Logo is not included in the 3D model.
 
 ![ir_remote_control_case_open.webp](img/ir_remote_control_case_open.webp)
+
 Note: The green LED is just a power indicator and NOT an essential part of the ir remote control. In the diagrams and item list below, it is not mentioned.
 
 
 ### My soldering solution for the IR remote control (can be improved, but it works)
 ![grid_hole_board_with_soldered_parts.webp](img/grid_hole_board_with_soldered_parts.webp)
+
 Notes:
 - There is one electrolytic capacitor too much soldered, it was a mistake, but I was to lazy to remove it. See Fritzing diagram below for the correct wiring. The correct electrolytic capacitor needs to be connected to the 5 V of the ESP8266 board.
 - The green LED is just a power indicator and NOT an essential part of the ir remote control. In the diagrams and item list below, it is not mentioned.
