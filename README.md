@@ -21,7 +21,7 @@ This interface comes from the IR Remote Climate component of ESPHome and is used
 ### Case for the IR Remote Control
 ![ir_remote_control_case.webp](img/ir_remote_control_case.webp)
 
-The Case was designed by me. Find it here on thingyverse.
+The Case was designed by me. [Find it here on thingyverse.](https://www.thingiverse.com/thing:7087047)
 Note: The A/C Logo is not included in the 3D model.
 
 ![ir_remote_control_case_open.webp](img/ir_remote_control_case_open.webp)
